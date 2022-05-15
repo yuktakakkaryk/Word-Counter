@@ -4,7 +4,10 @@
 }
 
 body{
-    padding: 50px 100px;
+    background-color: rgb(250, 244, 236);
+    padding: 100px 100px;
+    background-position: center;
+    background-size: cover;
 }
 
 h1{
@@ -17,6 +20,7 @@ h1{
 textarea{
     width: 99.8%;
     border-color: #0067B0;
+    font-size: 20px;
 }
 
 p{
